@@ -1,0 +1,19 @@
+{
+    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/jdk-26.jdk/Contents/Home",
+
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-26",
+            "path": "/Library/Java/JavaVirtualMachines/jdk-26.jdk/Contents/Home",
+            "default": true
+        }
+    ],
+
+    "java.project.sourcePaths": [
+        "src"
+    ],
+
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
