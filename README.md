@@ -84,3 +84,21 @@ The application uses MySQL with the following main tables:
 ## Author
 
 **Abhishek Gupta**
+
+## Screenshots
+
+### Hotels
+
+![Hotels](screenshots/hotels.png)
+
+### Rooms
+
+![Rooms](screenshots/rooms.png)
+
+### Guests
+
+![Guests](screenshots/guests.png)
+
+### Reservations
+
+![Reservations](screenshots/reservations.png)
