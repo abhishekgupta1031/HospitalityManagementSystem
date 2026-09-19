@@ -57,3 +57,20 @@ HospitalityManagementSystem/
 ├── .vscode/
 ├── HospitalityManagementSystem.jar
 └── README.md
+## Screenshots
+
+### Hotels
+
+![Hotels](screenshots/hotels.png)
+
+### Rooms
+
+![Rooms](screenshots/rooms.png)
+
+### Guests
+
+![Guests](screenshots/guests.png)
+
+### Reservations
+
+![Reservations](screenshots/reservations.png)
