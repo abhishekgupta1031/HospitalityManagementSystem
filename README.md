@@ -69,6 +69,16 @@ A Java Swing-based desktop application designed to manage hotels, rooms, guests,
 - `HospitalityManagementSystem.jar`
 - `README.md`
 
+## Future Improvements
+
+- User authentication and login system
+- Admin dashboard
+- Online room booking
+- Payment integration
+- Email confirmation for reservations
+- Report generation
+- Improved user interface
+
 
 ## License
 
