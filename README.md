@@ -45,18 +45,16 @@ A Java Swing-based desktop application designed to manage hotels, rooms, guests,
 
 ## Project Structure
 
-
-HospitalityManagementSystem/
-├── src/
-│   ├── dao/
-│   ├── gui/
-│   ├── model/
-│   └── util/
-├── lib/
-│   └── MySQL Connector/J
-├── .vscode/
-├── HospitalityManagementSystem.jar
-└── README.md
+- `src/`
+  - `dao/`
+  - `gui/`
+  - `model/`
+  - `util/`
+- `lib/`
+  - MySQL Connector/J
+- `.vscode/`
+- `HospitalityManagementSystem.jar`
+- `README.md`
 ## Screenshots
 
 ### Hotels
