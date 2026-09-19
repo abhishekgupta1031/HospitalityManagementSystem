@@ -1,3 +1,10 @@
+x![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-Connectivity-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)
+
+
 # Hospitality Management System
 
 A Java Swing-based desktop application designed to manage hotels, rooms, guests, and reservations efficiently.
