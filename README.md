@@ -2,7 +2,20 @@
 
 A Java Swing-based desktop application designed to manage hotels, rooms, guests, and reservations efficiently.
 
+
+## Project Highlights
+
+- User-friendly Java Swing interface
+- Complete hotel and room management
+- Guest record management
+- Reservation booking and updating
+- Room availability checking
+- Automatic reservation cost calculation
+- MySQL database integration
+- DAO-based project architecture
+
 ## Features
+
 
 ### Hotel Management
 
