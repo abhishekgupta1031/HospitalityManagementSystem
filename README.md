@@ -44,6 +44,8 @@ A Java Swing-based desktop application designed to manage hotels, rooms, guests,
 - Visual Studio Code
 
 ## Project Structure
+
+```text
 HospitalityManagementSystem/
 ├── src/
 │   ├── dao/
@@ -55,7 +57,6 @@ HospitalityManagementSystem/
 ├── .vscode/
 ├── HospitalityManagementSystem.jar
 └── README.md
-
 ## Screenshots
 
 ### Hotels
