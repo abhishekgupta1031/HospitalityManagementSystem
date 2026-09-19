@@ -68,6 +68,13 @@ A Java Swing-based desktop application designed to manage hotels, rooms, guests,
 - `.vscode/`
 - `HospitalityManagementSystem.jar`
 - `README.md`
+
+
+## License
+
+This project is created for educational and portfolio purposes.
+
+
 ## Screenshots
 
 ### Hotels
