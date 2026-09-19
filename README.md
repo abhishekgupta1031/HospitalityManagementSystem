@@ -39,8 +39,6 @@ A Java Swing based desktop application for managing hotels, rooms, guests, and r
 - DAO Architecture
 
 ## Project Structure
-
-```text
 HospitalityManagementSystem/
 ├── src/
 │   ├── dao/
