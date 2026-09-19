@@ -45,7 +45,7 @@ A Java Swing-based desktop application designed to manage hotels, rooms, guests,
 
 ## Project Structure
 
-```text
+
 HospitalityManagementSystem/
 ├── src/
 │   ├── dao/
