@@ -1,28 +1,32 @@
 # Hospitality Management System
 
-A Java Swing based desktop application for managing hotels, rooms, guests, and reservations.
+A Java Swing-based desktop application designed to manage hotels, rooms, guests, and reservations efficiently.
 
 ## Features
 
 ### Hotel Management
+
 - Add hotels
 - Update hotel details
 - Delete hotels
-- View hotels
+- View hotel records
 
 ### Room Management
+
 - Add rooms
 - Update room details
 - Delete rooms
-- View rooms
+- View room records
 
 ### Guest Management
+
 - Add guests
 - Update guest details
 - Delete guests
-- View guests
+- View guest records
 
 ### Reservation Management
+
 - Create reservations
 - Update reservations
 - Delete reservations
@@ -37,8 +41,11 @@ A Java Swing based desktop application for managing hotels, rooms, guests, and r
 - MySQL
 - JDBC
 - DAO Architecture
+- Visual Studio Code
 
 ## Project Structure
+
+```text
 HospitalityManagementSystem/
 ├── src/
 │   ├── dao/
@@ -50,53 +57,3 @@ HospitalityManagementSystem/
 ├── .vscode/
 ├── HospitalityManagementSystem.jar
 └── README.md
-├── .vscode/
-├── HospitalityManagementSystem.jar
-└── README.md
-
-## Database
-
-The application uses MySQL with the following main tables:
-
-- Hotels
-- Rooms
-- Guests
-- Reservations
-
-## How to Run
-
-1. Install Java/JDK.
-2. Install MySQL.
-3. Create the `hospitality_db` database.
-4. Configure the database connection.
-5. Make sure MySQL Connector/J is available in the `lib` folder.
-6. Run the Java Swing application.
-
-## Main Modules
-
-- Hotels
-- Rooms
-- Guests
-- Reservations
-
-## Author
-
-**Abhishek Gupta**
-
-## Screenshots
-
-### Hotels
-
-![Hotels](screenshots/hotels.png)
-
-### Rooms
-
-![Rooms](screenshots/rooms.png)
-
-### Guests
-
-![Guests](screenshots/guests.png)
-
-### Reservations
-
-![Reservations](screenshots/reservations.png)
